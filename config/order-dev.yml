@@ -1,5 +1,9 @@
 env:
   dev4
+girl:
+  name: Lily
+  age: 18
+
 spring:
   application:
     name: order
